@@ -2,7 +2,17 @@ LinkedIn Post Export Bookmarklet
 
 This Bookmarklet can be added to your browser to export a LinkedIn post into a JSON file. Follow the steps below to add the Bookmarklet to Google Chrome:
 
-## Installation
+# How to Install LinkedIn Bookmarklet
+
+Follow the instructions below to add the LinkedIn Post Export Bookmarklet to your browser. For a visual guide, see the video tutorial.
+
+## Video Tutorial
+
+[![How to Install LinkedIn Bookmarklet](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](./how-to-install-linkedin-bookmarklet.mp4 "How to Install LinkedIn Bookmarklet - Click to Watch!")
+
+
+## Installation Instructions
+
 
 1. **Open Chrome**: Launch your Google Chrome browser.
 
