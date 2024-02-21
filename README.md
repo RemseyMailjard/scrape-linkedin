@@ -8,8 +8,7 @@ Follow the instructions below to add the LinkedIn Post Export Bookmarklet to you
 
 ## Video Tutorial
 
-[![How to Install LinkedIn Bookmarklet]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/-DRPBM_p0v4)](./how-to-install-linkedin-bookmarklet.mp4 "How to Install LinkedIn Bookmarklet - Click to Watch!")
-
+[![How to Install LinkedIn Bookmarklet](https://img.youtube.com/vi/-DRPBM_p0v4/0.jpg)](https://youtu.be/-DRPBM_p0v4 "How to Install LinkedIn Bookmarklet - Click to Watch!")
 
 ## Installation Instructions
 
