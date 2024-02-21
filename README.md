@@ -1,4 +1,4 @@
-T# LinkedIn Post Export Bookmarklet
+LinkedIn Post Export Bookmarklet
 
 This Bookmarklet can be added to your browser to export a LinkedIn post into a JSON file. Follow the steps below to add the Bookmarklet to Google Chrome:
 
